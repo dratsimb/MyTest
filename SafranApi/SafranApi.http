@@ -1,0 +1,6 @@
+@SafranApi_HostAddress = http://localhost:5237
+
+GET {{SafranApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

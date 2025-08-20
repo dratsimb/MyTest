@@ -1,0 +1,23 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/DataAccessLayer/obj
+/Safran/obj
+/Safran.Api/bin/Debug/net8.0
+/Safran.Api/obj
+/Safran.Api.Data/bin/Debug
+/Safran.Api.Data/obj
+/Safran.Api.Security/bin/Debug/net8.0
+/Safran.Api.Security/obj
+/Safran.Api.Security.Test/bin
+/Safran.Api.Security.Test/obj
+/Safran.Client/bin/Debug/net8.0
+/Safran.Client/obj
+/Safran.Data/bin/Debug
+/Safran.Data/obj
+/Safran.Data.Sql/bin/Debug/net8.0
+/Safran.Data.Sql/obj
+/Safran.External.ExclusiveService/bin/Debug/net8.0
+/Safran.External.ExclusiveService/obj
+/TestProject1/obj

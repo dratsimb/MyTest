@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Safran.Api.Data\Safran.Api.Data.csproj" />
+  </ItemGroup>
+
 </Project>

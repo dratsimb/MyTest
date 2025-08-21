@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99DBE87B-BEF9-4D70-8244-EC04129BD504}|Safran.Client\\Safran.Client.csproj|c:\\users\\drats\\source\\repos\\dratsimb\\mytest\\safran.client\\users\\userlistwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DBE87B-BEF9-4D70-8244-EC04129BD504}|Safran.Client\\Safran.Client.csproj|solutionrelative:safran.client\\users\\userlistwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DBE87B-BEF9-4D70-8244-EC04129BD504}|Safran.Client\\Safran.Client.csproj|c:\\users\\drats\\source\\repos\\dratsimb\\mytest\\safran.client\\users\\userwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DBE87B-BEF9-4D70-8244-EC04129BD504}|Safran.Client\\Safran.Client.csproj|solutionrelative:safran.client\\users\\userwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99DBE87B-BEF9-4D70-8244-EC04129BD504}|Safran.Client\\Safran.Client.csproj|c:\\users\\drats\\source\\repos\\dratsimb\\mytest\\safran.client\\safranclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99DBE87B-BEF9-4D70-8244-EC04129BD504}|Safran.Client\\Safran.Client.csproj|solutionrelative:safran.client\\safranclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\Safran.Client\\Users\\UserWrapper.cs",
+              "RelativeDocumentMoniker": "Safran.Client\\Users\\UserWrapper.cs",
+              "ToolTip": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\Safran.Client\\Users\\UserWrapper.cs",
+              "RelativeToolTip": "Safran.Client\\Users\\UserWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:42:59.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserListWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\Safran.Client\\Users\\UserListWrapper.cs",
+              "RelativeDocumentMoniker": "Safran.Client\\Users\\UserListWrapper.cs",
+              "ToolTip": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\Safran.Client\\Users\\UserListWrapper.cs",
+              "RelativeToolTip": "Safran.Client\\Users\\UserListWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:42:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SafranClient.cs",
+              "DocumentMoniker": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\Safran.Client\\SafranClient.cs",
+              "RelativeDocumentMoniker": "Safran.Client\\SafranClient.cs",
+              "ToolTip": "C:\\Users\\drats\\source\\repos\\dratsimb\\MyTest\\Safran.Client\\SafranClient.cs",
+              "RelativeToolTip": "Safran.Client\\SafranClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T04:42:00.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
